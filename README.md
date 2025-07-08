@@ -3,5 +3,5 @@ The Expert Team on WIS2 Implementation and Transition focuses on advancing and r
 
 ## Meetings
 https://github.com/wmo-im/et-w2it/wiki/Meetings
-## Termes of Reference
+## Terms of Reference
 https://github.com/wmo-im/et-w2it/wiki/Terms-of-Reference
