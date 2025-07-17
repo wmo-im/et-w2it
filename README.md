@@ -3,6 +3,10 @@ The Expert Team on WIS2 Implementation and Transition focuses on advancing and r
 
 The work of this Expert Team is organised in the [WIS2 Implementation & Transition workplan (GitHub Project)](https://github.com/orgs/wmo-im/projects/74) - see the [Backlog](https://github.com/orgs/wmo-im/projects/74/views/1). We operate a "parking lot" for future issues to be considered after INFCOM4 (2026Q4). Please talk to ET-W2IT to move an issue off the parking lot. 
 
+ET-W2IT will review Pull Requests for the [WIS2 Cookbook](https://wmo-im.github.io/wis2-cookbook/cookbook/wis2-cookbook-DRAFT.html) ([GitHub](https://github.com/wmo-im/wis2-cookbook)) from external contributors. Requests for change to the regulatory material (WIS2 Manual, WIS2 Guide etc.) need to come from WIS2 National Focal Points or Expert/Task Teams within the INFCOM/Standing Committee on Information Management and Technology (SC-IMT). 
+
+Where ET-W2IT decisions require changes to technical specifications, these will be raised as issues in "product repositories" (e.g., for discovery metadata: [wcmp2](https://github.com/wmo-im/wcmp2)) for progression by the relevant Expert/Task Team.
+
 ## [Meetings](https://github.com/wmo-im/et-w2it/wiki/Meetings)
 
 ## [Terms of Reference](https://github.com/wmo-im/et-w2it/wiki/Terms-of-Reference)
