@@ -1,7 +1,7 @@
 ## Expert Team WIS2 Implementation and Transition
 The Expert Team on WIS2 Implementation and Transition focuses on advancing and refining the WIS 2.0 system architecture to support all Earth-system domains. Its work includes developing new types of WIS 2.0 services in response to Members’ evolving needs and providing clear guidance on the implementation of WIS 2.0 and the phased retirement of legacy systems (GTS/WIS1). Key activities involve establishing and testing global WIS 2.0 services and infrastructure, updating regulatory and technical documentation, identifying areas requiring further standardization, and ensuring close coordination with relevant expert teams. The team also engages with industry partners to promote effective and efficient data exchange among WMO Members.
 
-The work of this Expert Team is organised in the [WIS2 Implementation & Transition workplan (GitHub Project)]([url](https://github.com/orgs/wmo-im/projects/74) - see the [Backlog]([url](https://github.com/orgs/wmo-im/projects/74/views/1)). We operate a "parking lot" for future issues to be considered after INFCOM4 (2026Q4). Please talk to ET-W2IT to move an issue off the parking lot. 
+The work of this Expert Team is organised in the [WIS2 Implementation & Transition workplan (GitHub Project)](https://github.com/orgs/wmo-im/projects/74) - see the [Backlog](https://github.com/orgs/wmo-im/projects/74/views/1). We operate a "parking lot" for future issues to be considered after INFCOM4 (2026Q4). Please talk to ET-W2IT to move an issue off the parking lot. 
 
 ## [Meetings](https://github.com/wmo-im/et-w2it/wiki/Meetings)
 
